@@ -23,7 +23,7 @@
   "dependencies": {
     "@openzeppelin/contracts": "^2.3.0",
     "@optionality.io/clone-factory": "^0.2.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "babel-preset-env": "^1.7.0",
     "babel-preset-es2015": "^6.24.1",
